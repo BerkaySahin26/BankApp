@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "4SUgrg9sf9qCFTCuGORfvFogdJAH/3mZkhQXAs5LvAOtaPrLYbl5179Spd7WWVj5zSp9/16e0eoAwN4zBO+1Hw==",
+  "dgSpecHash": "4kw+xwSHofmNZw8eZlMXNFExGkv6gBszvLGGsr5sqKUA7P/M3rTmqwCdJB1oZk2qArIyUpSe+cpSTTO5jG+Txg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Berkay Şahin\\OneDrive\\Masaüstü\\Udemy_Project\\BankApp_1\\BankingCreditSystem.Core\\BankingCreditSystem.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Berkay Şahin\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.0-preview.2.24128.4\\microsoft.entityframeworkcore.9.0.0-preview.2.24128.4.nupkg.sha512",
+    "C:\\Users\\Berkay Şahin\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.0-preview.2.24128.4\\microsoft.entityframeworkcore.abstractions.9.0.0-preview.2.24128.4.nupkg.sha512",
+    "C:\\Users\\Berkay Şahin\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.0-preview.2.24128.4\\microsoft.entityframeworkcore.analyzers.9.0.0-preview.2.24128.4.nupkg.sha512",
+    "C:\\Users\\Berkay Şahin\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.0-preview.2.24128.5\\microsoft.extensions.caching.abstractions.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "C:\\Users\\Berkay Şahin\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.0-preview.2.24128.5\\microsoft.extensions.caching.memory.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "C:\\Users\\Berkay Şahin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0-preview.2.24128.5\\microsoft.extensions.dependencyinjection.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "C:\\Users\\Berkay Şahin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0-preview.2.24128.5\\microsoft.extensions.dependencyinjection.abstractions.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "C:\\Users\\Berkay Şahin\\.nuget\\packages\\microsoft.extensions.logging\\9.0.0-preview.2.24128.5\\microsoft.extensions.logging.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "C:\\Users\\Berkay Şahin\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.0-preview.2.24128.5\\microsoft.extensions.logging.abstractions.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "C:\\Users\\Berkay Şahin\\.nuget\\packages\\microsoft.extensions.options\\9.0.0-preview.2.24128.5\\microsoft.extensions.options.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "C:\\Users\\Berkay Şahin\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0-preview.2.24128.5\\microsoft.extensions.primitives.9.0.0-preview.2.24128.5.nupkg.sha512"
+  ],
   "logs": []
 }
